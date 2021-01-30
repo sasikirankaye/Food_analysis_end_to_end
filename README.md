@@ -40,22 +40,35 @@ https://www.archanaskitchen.com/
 
 ## Approach
 
-Problem Statement definition
-Data gathering
-Data Cleaning
-Exploratory Data Analysis
-Feature Engineering
-Base model building
-Hyper parameter tuning
-Model Accuracy
-Final model
+1.Problem Statement definition
+
+2.Data gathering
+
+3.Data Cleaning
+
+4.Exploratory Data Analysis
+
+5.Feature Engineering
+
+6.Base model building
+
+7.Hyper parameter tuning
+
+8.Model Accuracy
+
+9.Final model
 
 ## How to run the project?
-Install all the libraries mentioned in the requirements.txt file.
-Clone this repository in your local system.
-Open the command prompt from your project directory and run the command python main.py.
-Go to your browser and type http://127.0.0.1:5000/ in the address bar.
-Hurray! That's it.
+
+1.Install all the libraries mentioned in the requirements.txt file.
+
+2.Clone this repository in your local system.
+
+3.Open the command prompt from your project directory and run the command python main.py.
+
+4.Go to your browser and type http://127.0.0.1:5000/ in the address bar.
+
+5.Hurray! That's it.
 
 ## End Goal
 By solving the above problem it is possible to predict the state based on the customer interests in food.
